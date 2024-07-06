@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/scott-sun_no_text.png"
+  secondaryLogo = "img/secondary-logo.png"
+  description = "A Digital Creative with interest in creating work in Writing, Art and Music"
+  copyright = "Scott Robert Anderson © 2024"
+
+[author]
+  name = "Scott Anderson"
+  image = "img/scott-sun_no_text.png"
+  headline = "Creative Technologist "
+  bio = "A Digital creative specialising in areas of Web Development, Writing, Art"
+  links = [
+    { email = "mailto:scottwebdev@proton.me" },
+    { github = "https://github.com/scotta38" },
+    { linkedin = "https://www.linkedin.com/in/scott-anderson-09014173/" },
+    { medium = "https://medium.com/@simple.scott.94" },
+    { stack-overflow = "https://stackoverflow.com/users/8814328/scott-anderson" },
+  ]
