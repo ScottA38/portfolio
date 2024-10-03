@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Scott Dot Dev"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "Blowfish"
 [author]
   name = "Scott Anderson"
   image = "img/scott-sun_no_text.png"
-  headline = "Creative Technologist "
+  headline = "Creative Technologistheme.tomlt "
   bio = "A Digital creative specialising in areas of Web Development, Writing, Art"
   links = [
     { email = "mailto:scottwebdev@proton.me" },
