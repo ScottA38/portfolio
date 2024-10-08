@@ -1,6 +1,11 @@
 ---
 title: "Miles and Fleur"
+tags: ["creative", "writing"]
 ---
+
+This is a short story I am planning to write, and is unrelated to Web Development.
+
+It features a character at a series of points in their life, which are seemingly unrelated. As the story progresses the character develops through these candid moments.
 
 # Chapter One: A Solitary Beach
 

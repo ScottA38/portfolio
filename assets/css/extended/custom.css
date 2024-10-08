@@ -102,3 +102,17 @@ span.section-pre {
     max-width: 200px;
     align-self: center;
 }
+
+.photo-grid {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(3, minmax(200px, 1fr));
+    grid-auto-rows: 1fr;
+    grid-auto-columns: min-content;
+}
+
+.photo-item {
+    height: 100%;
+    place-self: center;
+    align-content: center;
+}

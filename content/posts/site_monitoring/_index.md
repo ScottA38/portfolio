@@ -1,5 +1,5 @@
 ---
-title: Site Monitoring
+title: An introduction to Site Monitoring
 ---
 
 ### All systems go
