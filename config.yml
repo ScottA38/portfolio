@@ -111,7 +111,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  author: "Scott Dot Dev"
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -144,15 +144,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Scott Dot Dev"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
-
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+      Scott Dot Dev is an independent Web Developer based in Essex, UK.
 
   socialIcons:
     - name: github
@@ -241,14 +235,3 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
-
-experience:
-  magento:
-    resourceURL: "https://business.adobe.com/products/magento/magento-commerce.html"
-    image: "Magento-logo2-1-scaled.jpg"
-  shopware:
-    resourceURL: "https://www.shopware.com/en/"
-    image: "Shopware_Logo_2016.png"
-  vuejs:
-    resourceURL: "https://vuejs.org/"
-    image: "vue-spelled-out.jpeg"
