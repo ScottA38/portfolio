@@ -1,0 +1,104 @@
+body {
+    position: relative;
+    overflow: hidden;
+}
+
+section {
+    margin: 10% 0;
+}
+
+.head {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(2, minmax(100px, 1fr));
+    gap: 10%;
+}
+
+section.focus-section {
+    background-color: #EEE;
+}
+
+section.services {
+    height: 200px;
+    width: calc(100vw - 20px);
+    margin-left: calc(-50vw + 50% + 10px);
+    overflow: auto;
+    text-align: center;
+    background-color: #DDD;
+}
+
+.services .services-link a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+section.services:hover .services-link:before {
+    content: '> ';
+}
+
+.head .hero {
+    grid-row-end: span 2;
+}
+    
+.head .hero img {
+    border-radius: 20px;
+    margin: 0;
+    object-fit: cover;
+    min-height: 100%;
+}
+
+ul.short-list li {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul.short-list {
+ padding: 0;
+}
+
+
+div.experience {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(100px, 1fr));
+    grid-auto-rows: 1fr;
+    grid-auto-columns: min-content;
+    gap: 5%;
+}
+
+div.experience img{
+    max-height: 100px;
+    vertical-align: middle;
+}
+
+div.experience .experience-item {
+    height: 100%;
+    place-self: center;
+    align-content: center;
+}
+
+.focus-section {
+    margin-left: 15px;
+}
+
+span.section-pre {
+    margin-bottom: 10px;
+}
+
+.github-list__repo {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: white;
+    box-shadow: -10px 5px 5px #DDD;
+    border-radius: 30px;
+}
+
+.github-list__repo:hover {
+    transform: translateX(15px);
+}
+
+.github-list__image {
+    max-width: 200px;
+    align-self: center;
+}

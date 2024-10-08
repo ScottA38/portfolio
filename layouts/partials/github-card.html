@@ -1,0 +1,23 @@
+<li class="github-list__repo">
+    {{- if .repoImage }}
+        <div class="github-list__image">
+            <img src="{{ (resources.Get .repoImage).RelPermalink }}" alt="Cover photo for {{.json.name}}" title="Cover photo for {{.json.name}}">
+        </div>
+    {{- end }}
+    <div class="github-list__data">
+        <div class="github-name">
+            <strong>
+                <a href="{{ .pageLink }}" target="_blank">{{ .json.name | humanize }}</a>
+            </strong>
+        </div>
+        <div class="github-description">
+            <p>{{ .json.description }}</p>
+        </div>
+        <div class="github-metadata">
+            <small>
+                Stars: {{.json.stargazers_count}} | Forks: {{.json.forks_count}} | Size: {{.json.size}} {{if .json.archived}}| Archived{{end}}<br>
+                Updated at: {{substr .json.updated_at 0 10}} -  Language: {{.json.language}}
+            </small>
+        </div>
+    </div>
+</li>

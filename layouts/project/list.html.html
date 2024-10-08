@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <main>
+    {{ .Content }}
+  
+    {{ $pages := where site.RegularPages "Type" "project" }}
+    {{ $paginator := .Paginate $pages }}
+
+    <ul class="github-list">
+      {{ range $paginator.Pages }}
+        {{- if .Params.ghURL}}
+          {{- $url := .Params.ghURL }}
+        {{/*  Source:https://gitlab.com/Roneo/hugo-shortcode-roneo-collection  */}}
+          {{ $p := getJSON $url }}
+          {{- partial "github-card" (dict "json" $p  "repoImage" .Params.repoImage "pageLink" .RelPermalink ) }}            {{/*  {{ $p }}  */}}
+        {{- end }}      
+      {{ end }}
+    </ul>
+
+    {{ template "_internal/pagination.html" . }}
+  </main>
+{{ end }}
+
