@@ -1,12 +1,13 @@
-version: 1
+version: 0.1
 frontend:
-    phases:
-        build:
-            commands:
-                - "hugo"
-    artifacts:
-        baseDirectory: public
-        files:
-            - '**/*'
-    cache:
-        paths: []
+  phases:
+    build:
+      commands:
+        - git submodule update --init --recursive --depth 1
+        - hugo
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []
