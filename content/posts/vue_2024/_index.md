@@ -2,6 +2,7 @@
 author: Scott Anderson
 title: 'A Vue2 a (s)kill: 007 reasons to use Vue 2 in 2024'
 type: post
+draft: true
 ---
 
 # A Vue 2 a (s)kill? 007 reasons to use Vue 2 in 2024

@@ -10,19 +10,25 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 20
 
 [[main]]
- name = "Home"
- weight = 10
+  name = "Home"
+  weight = 10
 
- [[main]]
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Services"
+  pageRef = "services.md"
+  weight = 30
+
+[[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 30
+  weight = 40
 
 #[[main]]
 #  name = "example sub-menu 1"
