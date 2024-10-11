@@ -48,23 +48,23 @@ Including Google Analytics in your site will involve adding just 2 code snippets
 
 The Google Tag Manager interface (once you have set up your account), should look something like this:
 
-![Google Tag Manager interface](google_tag_manager1.png)
+![Google Tag Manager interface](/images/posts/site-monitoring/google_tag_manager1.png)
 
 From here you can define custom tags: think of a tag as simply a container for a collection of metrics you want to group, such as site traffic tracking.
 
-![Tag Manager Tags](Tag_Manager_Tags.png)
+![Tag Manager Tags](/images/posts/site-monitoring/Tag_Manager_Tags.png)
 
 A Tag would be functionless just on it's own, and requires a set of '[triggers](https://support.google.com/tagmanager/answer/7679316?hl=en)' in order to actually target user activity. See below for an example of setting up one such trigger for page views.
 
-![Google Tag Manager interface](google_tag_manager2.png)
+![Google Tag Manager interface](/images/posts/site-monitoring/google_tag_manager2.png)
 
 Jumping back over to the Google Analytics dashboard, we can navigate to 'Admin' (bottom left of the sidebar), and 'Data Streams'. Within the Data Streams menu we have an option to create a new Data Stream for our Website:
 
-![Add a data Stream in Google Analytics](data_stream.png)
+![Add a data Stream in Google Analytics](/images/posts/site-monitoring/data_stream.png)
 
 Once you have created a data stream, entering the appropriate information about your site, you will be presented with a custom code snippet with your Google Tag Manager ID which you must input on every page in your website. If you are using a templating engine in your site, such as [twig](https://twig.symfony.com/) or [pug](https://pugjs.org/api/getting-started.html), there may be a base template you can access in order to globally add this code to every page, otherwise go to town on the 'ol copy and paste routine for each page in your site.
 
-![gtag code snippet](gtag_code.png)
+![gtag code snippet](/images/posts/site-monitoring/gtag_code.png)
 
 These insights can in turn inform improvements which will take your site up the Search Engine ranking ladder. Not only this, by tracking the navigation of users with anonymised data, you can identify common trends in the [user journey](https://mailchimp.com/resources/user-journey/) across your site, enabling you to focus on a specific part of the website that is causing friction with online sales.
 

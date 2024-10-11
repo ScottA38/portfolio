@@ -1,10 +1,10 @@
 {{ define "main" }}
   <main>
     {{ .Content }}
-  
+    
     {{ $pages := where site.RegularPages "Type" "project" }}
     {{ $paginator := .Paginate $pages }}
-
+    
     <ul class="github-list">
       {{ range $paginator.Pages }}
         {{- if .Params.ghURL}}
