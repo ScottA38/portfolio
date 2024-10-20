@@ -5,7 +5,7 @@ frontend:
       commands:
         - git submodule update --init --recursive --depth 1
         - mkdir public
-        - hugo -v -b "https://papermod.${AWS_APP_ID}.amplifyapp.com"
+        - hugo -v -b "${DEPLOYMENT_URL}"
   artifacts:
     baseDirectory: public
     files:
