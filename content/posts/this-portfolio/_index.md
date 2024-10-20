@@ -1,5 +1,5 @@
 ---
-title: "The Scott Dot Dev Story"
+title: "The Scott. a. Dev Story"
 ---
 ## A musical campervan
 

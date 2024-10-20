@@ -1,4 +1,4 @@
-# Scott Dot Dev's Web Development Portfolio site
+# Scott.a.Dev's Web Development Portfolio site
 
 Welcome to my portfolio site, built using [Hugo](https://gohugo.io/), a static site builder
 

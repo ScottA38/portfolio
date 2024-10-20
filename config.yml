@@ -1,13 +1,14 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: "Scott Dot Dev"
+title: "Scott.a.Dev"
 copyright: "© 2024 Scott Anderson"
 paginate: 5
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+enableGitInfo: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -111,7 +112,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: "Scott Dot Dev"
+  author: "Scott Anderson"
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -144,9 +145,10 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Scott Dot Dev"
+    Title: "Scott.a.Dev"
+    Image: "img/scott-sun_no_text.png"
     Content: >
-      Scott Dot Dev is an independent Web Developer based in Essex, UK.
+      Scott Anderson is an independent Web Developer based in Essex, UK.
 
   socialIcons:
     - name: github

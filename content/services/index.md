@@ -15,7 +15,7 @@ Instead of <i>reiterating documentation</i>, we will <b>walk you through</b> a s
 With a <i>seemingly endless</i> selection of Web Technologies now on the market for prospective business onwers, the World of Web Development has never been more accessible.
 
 But with such a <b>plethora of options</b>, how do you choose? How can you evaluate whether one product will <i>allow you to scale</i> better than another? The answer may be closer than you think: 
-> at Scott Dot Dev, we aim to <b>minimise development lead times</b> by matching you with a Software Product that meets as many of your requirements as possible, resulting in a robust final product ready to handle customers.
+> at Scott. a. Dev, we aim to <b>minimise development lead times</b> by matching you with a Software Product that meets as many of your requirements as possible, resulting in a robust final product ready to handle customers.
 
 When developing with us, we champion clarity:
  - _clarity_ in understanding exactly what **you want** from your Web Service
@@ -43,7 +43,7 @@ The final hurdle in any development cycle is getting a site online.
 
 Hosting providers can be hard to chose from, and will sometimes be constrained by the type of web technology that we have chosen to construct the site with.
 
-If you are confident with your web hosting capabilities (or have an existing provider), you can choose to manage this phase yourself, or you can opt to allow Scott Dot Dev to integrate the hosting and deployment of your website into the development process, selecting from a list of pre-approved hosting providers.
+If you are confident with your web hosting capabilities (or have an existing provider), you can choose to manage this phase yourself, or you can opt to allow Scott-a-Dev to integrate the hosting and deployment of your website into the development process, selecting from a list of pre-approved hosting providers.
 
 If you choose to go it alone with your Web Hosting setup, there are a couple of topics that may require your attention:
 
