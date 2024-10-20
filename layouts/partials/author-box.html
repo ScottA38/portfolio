@@ -1,0 +1,20 @@
+<div class="author-box wrapper">
+    {{- with site.Params.homeInfoParams -}}
+        {{- with (resources.Get .Image) -}}
+            <ul class="author-box image" style="background-image: url('{{- .RelPermalink -}}');">
+        {{- else -}}
+            <ul class="author-box">
+        {{- end -}}
+        <li class="author-box entry">
+            <span class="author-box name label"><strong>Written by:</strong></span>
+            <p class="author-box name value">{{- .Title | markdownify -}}</p>
+        </li>
+        {{- with .GitInfo -}}
+            <li class="author-box entry">
+                <span class="author-box date label"><strong>Last updated at:</strong></span>
+                <p class="author-box date value">{{ .AuthorDate.Format "2006-01-02" }}</p>
+            </li>
+        {{- end -}}
+        </ul> 
+    {{- end -}}
+</div>
