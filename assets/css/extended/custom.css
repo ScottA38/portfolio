@@ -13,9 +13,8 @@ section {
     display: grid;
     grid-auto-flow: row;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(10, 1fr);
+    grid-template-rows: repeat(10, auto);
     gap: 3rem;
-    height: 70vh;
     width: 100%;
 }
 
@@ -197,7 +196,7 @@ div.experience .experience-item {
 }
 
 
-@media (max-width: 750px) {
+@media (max-width: 1080px) {
     .head {
         display: block;
         height: auto;
