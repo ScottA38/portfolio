@@ -80,9 +80,9 @@ Crafting the user experience design of your site is an investment that is worthw
 
 By closely assessing your design needs and selecting either a high-fidelity or low-fidelity wireframe solution, you can cut out unnecessary leg-work and expense in the design phase. Experimentation with different design processes can unlock the path that is right for you, and lead to a website that is a pleasure to use.
 
-## UX at Scott-a-Dev
+## UX at Scott. a. Dev
 
-Whilst we cannot provide a comprehensive UI/UX service are Scott-a-Dev, through clear communication and discussion with our in-house developers, we can pinpoint down exactly what style makes your business tick, and hone in on that aesthetic with expert web styling skills.
+Whilst we cannot provide a comprehensive UI/UX service are Scott. A. Dev, through clear communication and discussion with our in-house developers, we can pinpoint down exactly what style makes your business tick, and hone in on that aesthetic with expert web styling skills.
 
 ##### Footnotes
 \* Commonly in Software Development, a Product Owner would draw up a ['User Persona'](https://www.techtarget.com/whatis/definition/WYSIWYG-what-you-see-is-what-you-get) in collaboration with the UI Design team, in order to better inform choices in the layout of the website. As entry-level developers, however, this is not a topic we need to worry about just yet.

@@ -8,6 +8,16 @@ section {
     margin: 10% 0;
 }
 
+.post-content .center {
+    margin: 1rem auto ;
+}
+
+.post-content .clip {
+    max-height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
 /* Homepage grid config */
 .head {
     display: grid;
