@@ -20,16 +20,6 @@
   pageRef = "posts"
   weight = 20
 
-[[main]]
-  name = "Services"
-  pageRef = "services.md"
-  weight = 30
-
-[[main]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 40
-
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
