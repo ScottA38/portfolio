@@ -5,6 +5,7 @@ frontend:
       commands:
         - git submodule update --init --recursive --depth 1
         - mkdir public
+        - echo "Building with $(hugo version)"
         - hugo -b "$DEPLOYMENT_URL" --logLevel info
   artifacts:
     baseDirectory: public

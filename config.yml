@@ -3,7 +3,6 @@
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
 title: "Scott.a.Dev"
 copyright: "© 2024 Scott Anderson"
-paginate: 5
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
