@@ -115,7 +115,7 @@ params:
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
-  # disableThemeToggle: true
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
   # disableSpecial1stPost: true
