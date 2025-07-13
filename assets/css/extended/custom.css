@@ -19,7 +19,7 @@ section {
 }
 
 /* Homepage grid config */
-.head {
+/* .head {
     display: grid;
     grid-auto-flow: row;
     grid-template-columns: repeat(2, 1fr);
@@ -46,7 +46,7 @@ section {
 
 .head-item.description {
     grid-row-start: 2;
-}
+} */
 
 .social-links {
     display: grid;
