@@ -9,6 +9,8 @@ Years of high-level **Software Development** at **successful companies** reveale
 
 > _'Where to start!?'_
 
-Overwhelm can be a massive factor. By recognising the inter-connected and über-digitised World which we all live in, we're no longer able to justify sinking all of our efforts into a be-all website upgrade or redesign, instead we must start _thinking like a customer_ and _[positioning ourselves](https://targetinternet.com/resources/what-is-strategic-positioning-in-digital-marketing/) where our audience already is_. This is where I come in, combining an expansive knowledge of Digital Marketing techiques with battle-tested website development skills to help you stand out.
+Overwhelm can be **a massive factor.**
+
+By recognising the **inter-connected** and **über-digitised World** which we all live in, we can start to adopt a strategy of **thinking like a customer**, [positioning ourselves](https://targetinternet.com/resources/what-is-strategic-positioning-in-digital-marketing/) _where our audience already is_. This is where I come in, combining an expansive knowledge of **Digital Marketing techiques** with battle-tested **Web Development skills** to help you stand out.
 
 
