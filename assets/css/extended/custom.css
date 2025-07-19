@@ -49,11 +49,11 @@ section {
 } */
 
 .social-links {
-    display: grid;
-    grid-auto-flow: row;
-    gap: 10%;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: min-content repeat(2, 1fr);
+    display: block;
+    position: fixed;
+    z-index: 100;
+    top: 10vh;
+    right: calc(50vw + (var(--main-width)/2 + var(--gap) * 2));
 }
 
 .social-links h4 {

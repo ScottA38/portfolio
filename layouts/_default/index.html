@@ -1,26 +1,15 @@
 {{ define "main" }}
     <section class="head">
-        <div class="head-item title">
-            <h1>Scott. a. Dev</h1>
-        </br>
-            <h3>Bespoke Web Solutions for small businesses who want to do more.</h>
-        </div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/w9yxZvAHW_k?si=J6akZ206Y2hEoCBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <div class="head-item description">
-            <p>Want to <i>serve your customers better</i> with a simple, elegant Web Solution?</p>
-            </br>
-            <p>Have a vision for <i>moving into digital commerce</i>, but don't know how to get there?</p>
-            </br>
-            <p>Tired of the <i>Jargon</i> and <i>endless hurdles</i> of making your site work?</p> 
-            </br>
-            <p><b>Scott. a. Dev</b> - helping you achieve your E-Commerce goals, <u>without the fuss</u></p>
-        </div>
-        <div class="head-item social-links">
-            <h4>Socials</h4>
-            {{ range site.Params.socialIcons }}
-                {{ partial "social-link" . }}
-            {{ end }}
-        </div>
+        {{- with .Site.GetPage "/homepage/blocks/hero" -}}
+            <div class="head-item title">
+                {{- .Content -}}
+            </div>
+        {{- end -}}
+        {{- with .Site.GetPage "/homepage/blocks/detail" -}}
+            <div class="head-item description">
+                {{- .Content -}}
+            </div>
+        {{- end -}}
     </section>
     <section class="experience">
         <h4>Experience</h4>

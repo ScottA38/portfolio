@@ -46,7 +46,7 @@ languages:
       languageAltTitle: French
       profileMode:
         enabled: true
-        title: PaperMod
+        title: Scott A. Dev
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
         # imageWidth: 120
@@ -105,14 +105,10 @@ params:
       Scott Anderson is an independent Web Developer based in Essex, UK.
 
   socialIcons:
-    - name: github
-      title: My Github Profile
-      url: "https://github.com/scotta38"
-      image: "/images/github.png"
-    - name: Medium
-      title: My Medium Profile
-      url: "https://medium.com/@simple.scott.94"
-      image: "/images/medium.png"
+    - name: email
+      title: Email
+      url: "mailto:scottwebdev@proton.me"
+      image: "/images/envelope_icon.svg"
     - name: LinkedIn
       title: My LinkedIn Profile
       url: "https://www.linkedin.com/in/scott-anderson-09014173/"
