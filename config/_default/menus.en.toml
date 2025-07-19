@@ -8,6 +8,11 @@
 [[main]]
   name = "Blog"
   pageRef = "posts"
+  weight = 40
+
+[[main]]
+  name = "The Scott A. Dev story"
+  pageRef = "my-story"
   weight = 20
 
 [[main]]
