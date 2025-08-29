@@ -1,10 +1,13 @@
 ---
 title: Services
+headless: true
 ---
 
-## Design
+## The Process
 
-<img id="paint-streak" src="./paint-streak.jpg" alt="Paint Marbling">
+### Design
+
+<img id="paint-streak" src="/images/services/paint-streak.jpg" alt="Paint Marbling">
 
 The World of [E-Commerce](https://www.investopedia.com/terms/e/ecommerce.asp) can be confusing.
 
@@ -14,29 +17,29 @@ Instead of <i>reiterating documentation</i>, we will <b>walk you through</b> a s
 
 With a <i>seemingly endless</i> selection of Web Technologies now on the market for prospective business onwers, the World of Web Development has never been more accessible.
 
-But with such a <b>plethora of options</b>, how do you choose? How can you evaluate whether one product will <i>allow you to scale</i> better than another? The answer may be closer than you think: 
+But with such a <b>plethora of options</b>, how do you choose? How can you evaluate whether one solution will <b>connect you with your customers</b> better than another? The answer may be closer than you think: 
 > at Scott. a. Dev, we aim to <b>minimise development lead times</b> by matching you with a Software Product that meets as many of your requirements as possible, resulting in a robust final product ready to handle customers.
 
 When developing with us, we champion clarity:
  - _clarity_ in understanding exactly what **you want** from your Web Service
 - _clarity_ in ensuring that you **understand the steps** involved and what **each one involves** on a high level.
 
-## Build
+### Build
 
-<img id="shipbuilding" src="./merlin_nyt.jpg" alt="Picture of a Shipyard with cranes">
+<img id="shipbuilding" src="/images/services/merlin_nyt.jpg" alt="Picture of a Shipyard with cranes">
 
 As we begin to write code, we ensure that you are in the loop.
 
-You will be invited to join a [review](https://www.atlassian.com/agile/scrum/sprint-reviews) every fortnight where the most recent advancements on the project will be shared. This kind of meeting is part of the ['Scrum'](https://www.atlassian.com/agile/scrum) methodology of Software Development: a <i>proven</i> and <i>dependable</i> framework that champions <b>regular feedback</b> and <b>highly adaptable</b> development teams.
+Regular [progress reviews](https://www.atlassian.com/agile/scrum/sprint-reviews) every allow you to provide crucial early feedback the most recent advancements in the project, just when it is needed the most. This approach is part of the ['Scrum'](https://www.atlassian.com/agile/scrum) methodology of Software Development: a <i>proven</i> and <i>dependable</i> framework that champions <b>regular feedback</b> and <b>highly adaptable</b> development teams.
 
 Should any critical issues arise, we will be online throughout business hours to help get things back on 
 track.
 
 Sit back, relax, and watch your site take shape.
 
-## Deployment
+### Deployment
 
-<img id="launch" src="./rocket_launch.jpg" alt="A space rocket launching">
+<img id="launch" src="/images/services/rocket_launch.jpg" alt="A space rocket launching">
 
 
 The final hurdle in any development cycle is getting a site online.

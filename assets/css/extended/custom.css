@@ -18,35 +18,7 @@ section {
     object-fit: cover;
 }
 
-/* Homepage grid config */
-/* .head {
-    display: grid;
-    grid-auto-flow: row;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(10, auto);
-    gap: 3rem;
-    width: 100%;
-}
-
-.head-item.title {
-    grid-row-start: 1;
-    grid-row-end: 1;
-}
-
-.head-item.social-links {
-    grid-row-start: 7;
-    grid-row-end: 10;
-}
-    
-.head-item.hero {
-    grid-row-end: span 2;
-    grid-row-start: 1;
-    grid-row-end: 10;
-}
-
-.head-item.description {
-    grid-row-start: 2;
-} */
+/* Homepage styles */
 
 .social-links {
     display: block;
@@ -70,7 +42,6 @@ section {
     justify-content: center;
     object-fit: contain;
 }
-
     
 .head .hero img {
     border-radius: 20px;
@@ -97,26 +68,6 @@ div.experience .experience-item {
     height: 100%;
     place-self: center;
     align-content: center;
-}
-
-.github-list__repo {
-    display: flex;
-    gap: 30px;
-    list-style-type: none;
-    margin: 20px 0;
-    padding: 20px;
-    background-color: white;
-    box-shadow: -10px 5px 5px #DDD;
-    border-radius: 30px;
-}
-
-.github-list__repo:hover {
-    transform: translateX(15px);
-}
-
-.github-list__image {
-    max-width: 200px;
-    align-self: center;
 }
 
 .photo-grid {

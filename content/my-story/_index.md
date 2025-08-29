@@ -1,10 +1,12 @@
 ---
-title: "The Scott. a. Dev Story"
+title: "The Scott. A. Dev Story"
 ---
 
 In early 2024, with multiple years of Software Engineering experience under my belt at some fantastic companies I left my job and my childhood home in a [1992 Talbot Express AutoQuest](https://classiccars.fandom.com/wiki/Talbot_Express) to pursue busking, nature and the open road. I made some great memories, saw some breathtaking places and learnt a lot about [#vanlife](https://trailandsummit.com/what-is-vanlife/) really is.
 
 ![Scott A. Dev's 1992 Talbot Express Camper van](/images/my-story/Bert_front.jpeg)
+
+## A new perspective
 
 Some time away from work gave me some great insights, mainly I realised that I have many skills to be grateful for alongside Web Development, such as: [Art](https://www.behance.net/scottrobertanderson), [Music](https://soundcloud.com/jerryrigg), Photo Editing and Digital Marketing. So I set to work creating this website, to showcase the full arsenal of my skills and seek out unique opportunities that speak to me.
 
@@ -14,7 +16,7 @@ Some time away from work gave me some great insights, mainly I realised that I h
     <img class="photo-item" src="/images/my-story/York_station.JPG"/>
 </div>
 
-### Programmed to deliver
+## Programmed to deliver
 
 My interest in software development began with side-projects. I progressed through a fantastic course called [Learn Python the Hard Way](https://learnpythonthehardway.org/) with a simple dream of developing an app for signing up to 5-a-side football games for my friends.
 
@@ -28,7 +30,7 @@ When I came back to the UK I started working for [Shopware AG](https://www.shopw
 
 ![Shopware Logo](/images/Shopware_Logo_2016.png)
 
-### This Portfolio 
+## This Portfolio 
 This Portfolio site is built upon [Hugo](https://gohugo.io/) a golang based Static-Site builder, using the [Papermod](https://github.com/adityatelange/hugo-PaperMod) theme. With my profile card which you can see above I have attached a wide range of links to my profiles on various sites, such as:
 
  - **[medium](https://medium.com/)** - A .site for publishing guides, opinion pieces, some types of journalistic writing
