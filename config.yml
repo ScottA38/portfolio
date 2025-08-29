@@ -107,7 +107,7 @@ params:
   socialIcons:
     - name: email
       title: Email
-      url: "mailto:scottwebdev@proton.me"
+      url: "mailto:hello@scottadev.com"
       image: "/images/envelope_icon.svg"
     - name: LinkedIn
       title: My LinkedIn Profile
