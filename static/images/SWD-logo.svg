@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.406929mm"
+   height="47.577984mm"
+   viewBox="0 0 52.406929 47.577984"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="219.43974"
+       y="306.15991"
+       width="245.83282"
+       height="95.769234"
+       id="rect7" />
+    <rect
+       x="219.43974"
+       y="306.15991"
+       width="303.89764"
+       height="95.769234"
+       id="rect7-8" />
+    <rect
+       x="219.43974"
+       y="306.15991"
+       width="245.83282"
+       height="95.769234"
+       id="rect7-85" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-61.255961,-51.622191)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,16.833971,0.48535565)"
+       id="text7"
+       style="font-weight:bold;font-size:73.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);fill:#860eaf;fill-opacity:0.863229"><tspan
+         x="219.43945"
+         y="372.21545"
+         id="tspan8"><tspan
+           style="font-weight:800;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold'"
+           id="tspan2">dev.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.950392,-16.588154)"
+       id="text7-0"
+       style="font-weight:bold;font-size:73.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-85);fill:#dd036c;fill-opacity:1"><tspan
+         x="219.43945"
+         y="372.21545"
+         id="tspan10"><tspan
+           style="font-family:Avenir;-inkscape-font-specification:'Avenir Bold'"
+           id="tspan9">web.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.8272995,-32.773406)"
+       id="text7-3"
+       style="font-weight:bold;font-size:73.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-8);fill:#3366e0;fill-opacity:1"><tspan
+         x="219.43945"
+         y="372.21545"
+         id="tspan12"><tspan
+           style="font-family:Avenir;-inkscape-font-specification:'Avenir Bold'"
+           id="tspan11">Scott.</tspan></tspan></text>
+  </g>
+</svg>

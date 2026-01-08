@@ -1,0 +1,22 @@
+.social-links {
+    display: block;
+    position: fixed;
+    z-index: 100;
+    bottom: 2vh;
+    left: calc(50vw + (var(--main-width)/2 + var(--gap) * 2));
+}
+
+.social-links h4 {
+    grid-column: span 4;
+    margin-bottom: 1rem;
+}
+    
+.social-link {
+    max-width: 100px;
+}
+    
+.social-link-anchor {
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+}

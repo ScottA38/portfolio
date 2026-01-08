@@ -1,0 +1,17 @@
+.site-blocks {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    background: linear-gradient(45deg, #e66465, #9198e5);
+} 
+
+.site-block {
+    height: 100px;
+    padding: 15px;
+    list-style: none;
+    text-align: center;
+    border: 3px solid rgb(29, 30, 32);
+    justify-content: center;
+    align-content: center;
+}

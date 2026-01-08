@@ -1,0 +1,17 @@
+/* div.nav {
+    position: relative;
+} */
+
+.logo {
+    position: relative;
+    top: 5vh;
+}
+
+#menu li a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.nav {
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+}

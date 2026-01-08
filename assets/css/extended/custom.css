@@ -8,6 +8,14 @@ section {
     margin: 10% 0;
 }
 
+a {
+    color: rgb(145, 152, 229);
+}
+
+a:hover {
+    color: rgb(100, 105, 189);
+}
+
 .post-content .center {
     margin: 1rem auto ;
 }
@@ -19,37 +27,7 @@ section {
 }
 
 /* Homepage styles */
-
-.social-links {
-    display: block;
-    position: fixed;
-    z-index: 100;
-    top: 10vh;
-    right: calc(50vw + (var(--main-width)/2 + var(--gap) * 2));
-}
-
-.social-links h4 {
-    grid-column: span 4;
-    margin-bottom: 1rem;
-}
     
-.social-link {
-    max-width: 100px;
-}
-    
-.social-link-anchor {
-    display: flex;
-    justify-content: center;
-    object-fit: contain;
-}
-    
-.head .hero img {
-    border-radius: 20px;
-    margin: 0;
-    object-fit: cover;
-    height: 100%;
-}
-
 div.experience {
     display: grid;
     grid-template-columns: repeat(3, minmax(100px, 1fr));
