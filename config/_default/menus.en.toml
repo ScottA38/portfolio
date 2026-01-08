@@ -12,10 +12,10 @@
 
 [[main]]
   name = "The Scott A. Dev story"
-  pageRef = "my-story"
+  pageRef = "/my-story"
   weight = 20
 
 [[main]]
-  name = "Services"
-  pageRef = "services.md"
+  name = "My Work"
+  pageRef = "/my-work"
   weight = 30

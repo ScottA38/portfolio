@@ -1,14 +1,22 @@
 ---
-title: "The Scott. A. Dev Story"
+title: "The 'Scott Web Dev' Story"
 ---
 
-In early 2024, with multiple years of Software Engineering experience under my belt at some fantastic companies I left my job and my childhood home in a [1992 Talbot Express AutoQuest](https://classiccars.fandom.com/wiki/Talbot_Express) to pursue busking, nature and the open road. I made some great memories, saw some breathtaking places and learnt a lot about [#vanlife](https://trailandsummit.com/what-is-vanlife/) really is.
+### A shifting Landscape
 
-![Scott A. Dev's 1992 Talbot Express Camper van](/images/my-story/Bert_front.jpeg)
+In 2024, with multiple years of commercial Software Engineering experience under my belt, I came to a **realisation**: creating a **compelling presence online** requires _so much more_ than **just a good website**.
 
-## A new perspective
+The landscape of online branding began to shift dramatically, almost as if sand under the feet, and **crafting a compelling identity** would now takes a lot more than just **knowing how to code**. 
 
-Some time away from work gave me some great insights, mainly I realised that I have many skills to be grateful for alongside Web Development, such as: [Art](https://www.behance.net/scottrobertanderson), [Music](https://soundcloud.com/jerryrigg), Photo Editing and Digital Marketing. So I set to work creating this website, to showcase the full arsenal of my skills and seek out unique opportunities that speak to me.
+![Picture of green fields in the Dengie area near Maldon, Essex](./home-view.webp)
+
+Enter **groundbreaking new concepts** like [Generative A.I](https://www.ibm.com/think/topics/generative-ai), [Website Analytics](https://developers.google.com/analytics) and [Social Media marketing](https://business.adobe.com/blog/basics/how-to-get-started-with-social-media-marketing). These tools quickly **rendered themselves indispensable** in an already _dizzying array_ of available solutions for getting noticed online - potent forces in _reshaping your consumers' sensibilities_ about **where to look** and **how to spend their money**. 
+
+Casting off as a freelancer, I set about immersing myself in learnings about Digital Branding for SME businesses and establishing myself as an **affordable**, **trustworthy** website designer/developer. My mission is simple:
+
+> I want to tell _your_ brand story, a raw and unflitered statement of your business and the values it stands for. 
+
+## Programmed to deliver
 
 <div class="photo-grid">
     <img class="photo-item" src="/images/my-story/the_grand_1.JPG"/>
@@ -16,11 +24,12 @@ Some time away from work gave me some great insights, mainly I realised that I h
     <img class="photo-item" src="/images/my-story/York_station.JPG"/>
 </div>
 
-## Programmed to deliver
 
-My interest in software development began with side-projects. I progressed through a fantastic course called [Learn Python the Hard Way](https://learnpythonthehardway.org/) with a simple dream of developing an app for signing up to 5-a-side football games for my friends.
+My interest in software development began with side-projects. 
 
-I never finished the app, but the passion that this course imbued in me for solving problems led me to go to University to study [Computing](https://www.uos.ac.uk/study/bsc-computing/) at the University of Suffolk. Witnessing the mind-bendingly intricate mechanisms of computers, a textured history of the internet and coursemates building game engines got me hooked on writing code.
+I remember flying through a fantastic course called [Learn Python the Hard Way](https://learnpythonthehardway.org/) with a simple dream of developing an app for signing up to 5-a-side football games for my friends.
+
+The passion that this dream imbued in me for solving problems led onwards to the University of Suffolk to study [Mobile and Web Engineering](https://www.uos.ac.uk/study/bsc-computing/) at the University of Suffolk.  I didn't finish the course, but witnessing the mind-bendingly intricate mechanisms of computers, a textured history of the internet and coursemates building game engines got me hooked on writing code.
 
 Professionally, I made my humble beginnings in a Web Development agency called [Scandiweb](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scandiweb.com/&ved=2ahUKEwiI4LOPkf-IAxVtTkEAHTWvCx4QFnoECAsQAQ&usg=AOvVaw2YUytAt0QUX6YCLCa2F68w) (based in Riga, Latvia) where I cut my teeth in the [Magento](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://business.adobe.com/products/magento/magento-commerce.html&ved=2ahUKEwjb-c2lkf-IAxWBVUEAHfRNE1UQFnoECAkQAQ&usg=AOvVaw0miRCgzU3-zaieOkp_MXZh) ecosystem, and progressed up the ranks to prestigious clients.
 

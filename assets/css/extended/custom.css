@@ -4,8 +4,8 @@ body {
     overflow: hidden;
 }
 
-section {
-    margin: 10% 0;
+main.main {
+    margin: 70px auto;
 }
 
 a {
