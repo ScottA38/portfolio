@@ -108,14 +108,22 @@ params:
       title: Email
       url: "mailto:hello@scottadev.com"
       image: "/images/envelope_icon.svg"
+      cta: "Email me!"
     - name: LinkedIn
       title: My LinkedIn Profile
       url: "https://www.linkedin.com/in/scott-anderson-09014173/"
       image: "/images/linkedin.png"
+      cta: "Connect on LinkedIn"
     - name: StackOverflow
       title: My StackOverflow profile
       url: "https://stackoverflow.com/users/8814328/scott-anderson"
       image: "/images/stackoverflow.png"
+      cta: "See my StackOverflow"
+    - name: GitHub
+      title: My GitHub Profile
+      url: "https://www.github.com/scotta38/"
+      image: "/images/github.png"
+      cta: "Check out my GitHub"
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
@@ -140,7 +148,7 @@ params:
       image: "nginx.jpg"
     - name: PHP
       url: "https://www.php.net/"
-      image: "https://www.php.net/"
+      image: "php-1-logo-png-transparent.png"
   
 
 
