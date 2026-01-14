@@ -18,10 +18,7 @@ LLMs (i.e: [Large Language Models](https://www.ibm.com/think/topics/large-langua
 
 LLMs have fast response times, a high degree of accuracy, and provide relevant information even within nuanced, detailed contexts. Providers like [OpenAI's ChatGPT](https://openai.com/) and [Anthropic's Claude](https://claude.ai/login) offer basic versions of their service for free, with premium subscriptions available for those who want to access a higher level of reasoning skill.
 
-LLMs (like the human counterparts they mimic), are susceptible to a subtle but insidious plague: bias. Bias could be introduced through multiple mechanics, for instance:
-
-- A pre-disposed way of thinking in the user writing the prompt
-- Un-mitigated instance of opinionated material in LLM training data
+LLMs (like the human counterparts they mimic), are susceptible to a subtle but insidious detractor: bias. Bias could be introduced through multiple mechanics, for instance:
 
 
 ### What is bias?
@@ -30,19 +27,18 @@ LLMs (like the human counterparts they mimic), are susceptible to a subtle but i
 
 ![A depiction of a 16th century game of Boules](./boules.jpeg)
 
+> In the old game of bowls, it was a technical term used in reference to balls made with a greater weight on one side, causing them to curve obliquely (1560s); hence the figurative use "a one-sided tendency of the mind" (1570s), and, at first especially in law, "undue propensity or prejudice."
+
 In the 21st century, however, most people would articulate bias in much more concrete terms, for instance:
 
 > a systematic deviation from neutrality, arising from the subjective perspectives, beliefs, values, or agendas
 
 _credit: [CLRN](https://www.clrn.org/what-is-bias-in-history/)
 
-
-In the 21st century, huge swathes of modern science is devoted to the pursuit of  
-
+In modern World, the institution of modern Science informs the basis of many decisions we make. One of the perceived benefits of modern science it's ideals of objective truth - information
 The effects of psychological bias itself are too vast to mention. 
 
-The term 'bias' would grow to become a pivotal term for many areas of modern Science, from the natural sciences (i.e: to identifying unfair conditions or lack of objectivity in proving a theory), through to Psychology, where the identification of bias in the mind of a patient can help to understand the mechanics of problems such as addiction or 
-
+The term 'bias' would grow to become a pivotal term for many areas of modern Science, from the natural sciences (i.e: to identifying unfair conditions or lack of objectivity in proving a theory), through to Psychology, where the identification of bias in the cognitive processes of a patient could  
 
 
 of an over-reliance on that we maintain a balanced mindset in the decisions we make whilst in regular contact with machine-learning algorithms?
@@ -50,6 +46,9 @@ of an over-reliance on that we maintain a balanced mindset in the decisions we m
 The crucial word to note here errors and assumptions are happening under the surface.
 
 ## 1. Cognitive biases
+
+- A pre-disposed way of thinking in the user writing the prompt
+- Un-mitigated instance of opinionated material in LLM training data
 
 > "Cognitive biases are systematic tendencies leading
 to error – such as the tendency to interpret infor-
