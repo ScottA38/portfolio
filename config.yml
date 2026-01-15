@@ -107,22 +107,27 @@ params:
     - name: email
       title: Email
       url: "mailto:hello@scottadev.com"
-      image: "/images/envelope_icon.svg"
+      image: "/images/socials/email_icon.svg"
       cta: "Email me!"
+    - name: meeting
+      title: Book a call with me
+      url: "https://calendly.com/scottwebdev-proton/30min"
+      image: "/images/socials/phone.svg"
+      cta: "Book a call with me"
     - name: LinkedIn
       title: My LinkedIn Profile
       url: "https://www.linkedin.com/in/scott-anderson-09014173/"
-      image: "/images/linkedin.png"
+      image: "/images/socials/linkedin.png"
       cta: "Connect on LinkedIn"
     - name: StackOverflow
       title: My StackOverflow profile
       url: "https://stackoverflow.com/users/8814328/scott-anderson"
-      image: "/images/stackoverflow.png"
+      image: "/images/socials/stackoverflow.png"
       cta: "See my StackOverflow"
     - name: GitHub
       title: My GitHub Profile
       url: "https://www.github.com/scotta38/"
-      image: "/images/github.png"
+      image: "/images/socials/github.png"
       cta: "Check out my GitHub"
 
   editPost:
