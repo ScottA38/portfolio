@@ -1,75 +1,81 @@
 ---
-title: "Digital Design from A-Z"
-draft: true
+draft: false
 ---
 
-As the possibilities of A.I grow and [Large Language models](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/) (LLMs) become progressively more accurate, a new paradigm is emerging in modern business: a large-scale shift towards A.I-generated design and written content production, at the detriment of classical human craftmanship. The scale of this shift is unprecedented: according to [colorwhistle.com](https://colorwhistle.com/statistics-ai-content/), as many as 67% of small business owners are using A.I to generate their content online.
+[Large Language models](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/) (LLMs) are everywhere.
 
-In the U.K, [surveys by the UK's Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/publicopinionsandsocialtrendsgreatbritainartificialintelligenceai) have shown a gradual but consitient growth in optimism towards A.I technologies, wheras a [worldwide independent survey](https://static.googleusercontent.com/media/publicpolicy.google/en//resources/ipsos_google_our-life-with-ai_2024_25.pdf) commissioned by Google reported that between 2023 and 2024, all major economic regions (and developing regions) witnessed at least an 8% increase in A.I usage.
+Referenced in the news, integrated into [your emails](https://workspace.google.com/intl/en_uk/products/gmail/ai/), cleverly finagled into [online customer support processes](https://corporate.flix.com/flix-tech/), shared in group chats or advertised on Youtube. _Spread on your toast_.
 
-As many of us invites superintelligent algorithms into decision making processes within both our personal and professional lives then, what subtle cues can we identify which may indicate that our thought processes have gone astray? Are there clues we can look for which show that we have gotten off track, be it from personal biases, or biases within the LLM model itself? 
+Every day, LLMs are advancing at a rate both astonishing and terrifying - generating responses with information of startling accuracy, producing wordings with marked emotionally tactility and being armed with increasingly up-to-date datasets to draw from. 
+
+In the U.K, [surveys by the UK's Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/publicopinionsandsocialtrendsgreatbritainartificialintelligenceai) show a gradual but consitient optimistic trend towards A.I adoption, wheras a [worldwide independent survey](https://static.googleusercontent.com/media/publicpolicy.google/en//resources/ipsos_google_our-life-with-ai_2024_25.pdf) commissioned by Google reported that between 2023 and 2024, all major economic regions (and developing regions) witnessed at least an 8% increase in A.I usage.
+
+Yet as many of us invite superintelligent algorithms into our decision making processes our lives, how can we keep ourselves accountable to overreliance and over-delegating key decisions in our private and professional lives? What cues can individuals implement to help them realise when they are _off-track_, _lost down a rabbit hole_ and have their _thought processes skewed from handing off their agency to technology? 
+
+This article seeks to strip down the topic of A.I overreliance and help people understand potential risks.
 
 <!--how can we be mindful that we do not offset our own decision-making authority through an overreliance on A.I tools? What subtle factors might be leading us astray in our quest to become more efficient in our work? The crucial term which is emerging in today's research into LLM's is that of bias - both from the machine and in our own minds.-->
 
 
-### Why LLMs
+### What's an LLM, then?
 
-LLMs (i.e: [Large Language Models](https://www.ibm.com/think/topics/large-language-models)) interpret text written by humans (in their natural style of communication), and provide an output written in a similarly humanisitic communication style.
+LLMs (i.e: [Large Language Models](https://www.ibm.com/think/topics/large-language-models)) interpret text written by humans (in their natural style of communication), input the text through a network of nodes in an algorithm known as a ['Neural Network'](https://www.ibm.com/think/topics/neural-networks) and ultimately provide a response to the presented problem question or statement based upon a set of computed probabilities, using a style of written output similar to that which a human might normally write.
 
-LLMs have fast response times, a high degree of accuracy, and provide relevant information even within nuanced, detailed contexts. Providers like [OpenAI's ChatGPT](https://openai.com/) and [Anthropic's Claude](https://claude.ai/login) offer basic versions of their service for free, with premium subscriptions available for those who want to access a higher level of reasoning skill.
+LLM providers (such as [OpenAI's ChatGPT](https://openai.com/) or [Anthropic's Claude](https://claude.ai/login)) offer basic versions of their service for free, with premium subscriptions available for those who want to access a higher level of reasoning skill. They have fast response times, a high degree of accuracy, and provide highly relevant information within nuanced, detailed contexts.
 
-LLMs (like the human counterparts they mimic), are susceptible to a subtle but insidious detractor: bias. Bias could be introduced through multiple mechanics, for instance:
+LLMs, however, (like the human counterparts they mimic) are susceptible to a subtle but insidious detractor: bias.
 
-
-### What is bias?
+### Define 'Bias'?
 
 'Bias' derives [from the middle French](https://www.etymonline.com/word/bias) 'biasis', defined as "a slant", "a slope", or "an oblique".
 
-![A depiction of a 16th century game of Boules](./boules.jpeg)
-
 > In the old game of bowls, it was a technical term used in reference to balls made with a greater weight on one side, causing them to curve obliquely (1560s); hence the figurative use "a one-sided tendency of the mind" (1570s), and, at first especially in law, "undue propensity or prejudice."
 
-In the 21st century, however, most people would articulate bias in much more concrete terms, for instance:
+![A depiction of a 16th century game of Boules](./prometheus-unsplash.jpg)
+_image credit: Emilia Hernandez on [Unsplash](https://unsplash.com/@carolinehdz)_
+
+In the 21st century, however, most people would articulate bias in much more clinical terms, for instance:
 
 > a systematic deviation from neutrality, arising from the subjective perspectives, beliefs, values, or agendas
 
 _credit: [CLRN](https://www.clrn.org/what-is-bias-in-history/)
 
-In modern World, the institution of modern Science informs the basis of many decisions we make. One of the perceived benefits of modern science it's ideals of objective truth - information
-The effects of psychological bias itself are too vast to mention. 
+In most of the West today, Science (and by extension technology) inform a great many decisions we make. For the average citizen, Science often holds a great influence over what we do and how we behave, even if we are not directly aware of it.
 
-The term 'bias' would grow to become a pivotal term for many areas of modern Science, from the natural sciences (i.e: to identifying unfair conditions or lack of objectivity in proving a theory), through to Psychology, where the identification of bias in the cognitive processes of a patient could  
+As a macrocosm, then, Science shapes cultural perspectives within our culture, informing ideological shifts and informing the basis of many decisions we make. One of the perceived benefits of modern science it's ideals of objective truth - information which is exempt from skew or slant.
 
-
-of an over-reliance on that we maintain a balanced mindset in the decisions we make whilst in regular contact with machine-learning algorithms?
-
-The crucial word to note here errors and assumptions are happening under the surface.
+Let's continue further and explore the potential bias contributors which influence both humans and chatbots' ability to remain objective. 
 
 ## 1. Cognitive biases
 
-- A pre-disposed way of thinking in the user writing the prompt
-- Un-mitigated instance of opinionated material in LLM training data
+Cognitive bias is characterised by an actor (human or otherwise), making decisions with systematic preference (either conscious or unconscious) towards a specific principle or ideology. More comprehensively it can be defined as:
 
-> "Cognitive biases are systematic tendencies leading
+> "...systematic tendencies leading
 to error – such as the tendency to interpret infor-
 mation in a way that confirms and reinforces pre-
 existing beliefs and opinions"
 
-Large Language models use a knowledge base sourced from the entirety of the web
+General-Purpose Large Language models (such as [Claude](claude.ai)), generally utilise a underlying knowledge base comprised from batch-harvesting (['scraping'](https://www.nnlm.gov/guides/data-glossary/web-scraping)) information from vast swathes of the internet. Typically, a Large Language Model in itself has no jurisdiction as to whether or not a claim it synthesizes from it's dataset sounds reasonable without a , and will treat information within it's training set _as gospel_, unless an from the entirety of the web, a sprawling, labyrinthine spider's nest of interconnected information or data over which the model (the algorithm which actually generates the response) has no jurisdiction  
 
 
-### A report is due
+### A banal example
 
 A purely mathematical stance on the concept of human productivity would lead us to believe that Large Language Models will automatically fractionalise production time on essential work tasks by diminishing the amount of human effort required at each stage of a given task or assignment.
 
 To better convey this idea, let's present a hypothetical situation which exemplifies some of these characteristics. Using a _loose interpretation_ of the [GHERKIN](https://cucumber.io/docs/gherkin/reference) framework, let's present a concrete scenario where Large Language Models are used:
 
 **TASK** 'Jeff' is assigned to produce a report on 'Current market trends within the commercial sector of Basketball Footwear' within the time-frame of 72 hours
+
 **GIVEN** 'Jeff' has access to the internet: a _virtually limitless_ resource of information on _almost any_ topic
+
 **AND** 'Jeff' chooses Large Language Models in order to produce the report
+
 **WHEN** Jeff starts working on his report
+
 **THEN** time spent planning the necessary components of the report will be reduced by a factor of A (Large Language Models have the ability to help users plan towards a specific goal and understand contextual markers in order to tailor guidance towards a specific situation)
+
 **AND** time spent researching relevant informative materials to create the factual basis for the report will be reduced by a factor of B (Large Language Models are trained upon a huge range of available data, including resources such as academic papers written in highly sophisticated language)
+
 **AND** time spent writing and formatting the report will be reduced by a factor of C (Large Language Models are able to respond to instructions to create bespoke documents based upon layered instructions and granular criteria)
 
 **disclaimer:** This is definitely not a correct implementation of the GHERKIN method 🙂
