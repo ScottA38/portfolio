@@ -3,7 +3,7 @@ title: 'GDPR for skim-readers (like me)'
 tags: [ 'legal', 'compliance', 'regulations', 'due-diligence']
 ---
 
-For those of you unaware of _just how much_ sensitive data is **transmitted over the World Wide Web** on a daily basis, it is high time you read up about what the [**GDPR**](https://gdprinfo.eu/) actually consists of _(instead of just spamming the 'Accept All' button each time you enter a website).
+For those of you unaware of _just how much_ sensitive data is **transmitted over the World Wide Web** on a daily basis, it is high time you read up about what the [**GDPR**](https://gdprinfo.eu/) actually consists of (_instead of just spamming the 'Accept All' button each time you enter a website_).
 
 > '*Yeah, but it's so dry and boring*'. 
 
@@ -12,6 +12,10 @@ For those of you unaware of _just how much_ sensitive data is **transmitted over
 #### Disclaimer - I am not an expert
 
 As you may have noticed already, this article seeks to entertain as much as it does to inform. If you want **the hard facts** about GDPR (I highly recommend this!), then please refer to this quick and painless video:
+
+Any good writer relies on watertight sources. In the interests of transparency I will state for the record the sources I have used here:
+- ['A guide to the data protection principles' - ICO](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/)
+- ['What are the 7 principles of the GDPR?' - Privacy Kitchen _via Keepabl_](https://keepabl.com/news/7-principles-of-gdpr/)
 
 {{<youtube NcHSD3fWJiQ>}}
 
@@ -42,12 +46,15 @@ getting **consent** to data processing from your customers (a.k.a: [data subject
 
 If you collect data from people you need to prove that you **need the data for specific purposes** (which you are able to spell out to them). Explicitly stating **the reason why you are collecting the data from them** should typically cover most of the rationale.
 
-<!--
-TODO: Add further articles back in 
 ### 3. "Adequate, relevant and limited to what is necessary"
 
-The **adequacy** of data refers to data being  -->
+[Data Minimisation](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/data-minimisation/#data_minimisation), according to the ICO's guidance, is about paring down the range of data you collect.
 
+This starts by examining any milestones within your business process timeline where you expect to collect data from a prospective or existing customer,  subsequently performing analyis about which data data is absolutely necessary to collect to ensure the proper functioning of that business process. In other words:
+
+>  ...to assess whether you are holding the right amount of personal data, you must first be clear about why you need it.
+
+For instance, if a customer initiates a request to sign up to an email newsletter, strictly speaking only an email address is required in order to complete the operation. In many cases, companies request additional information to this, such as surname/forname, phone number and more, but to follow the GDPR directive for relevancy, such appeals for further context should be supplied on a purely voluntary basis (that doesn't usually stop more audacious businesses from trying it on, however!).
 
 ### Crafting your Privacy notice
 
