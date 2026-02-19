@@ -1,8 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: "Scott.a.Dev"
-copyright: "© 2024 Scott Anderson"
+title: "Scott Web Dev"
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
@@ -27,45 +26,32 @@ languages:
       category: categories
       tag: tags
       series: series
-    menu:
-      main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      languageAltTitle: French
-      profileMode:
-        enabled: false
-        title: Scott A. Dev
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-        imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-        buttons:
-          - name: Blog
-            url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+ 
 outputs:
   home:
     - HTML
     - RSS
-    - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "Direct and cost-effective digital solutions which get you noticed. Scott Web Dev offers bespoke advice, guidance and support for building and maintaining a strong presence online"
+  keywords: 
+    - "Web Development"
+    - "Web Design"
+    - "Digital Marketing"
+    - "Core Web Vitals"
+    - "Website accessibility scores"
+    - "SEO"
+    - "Google Analytics"
+    - "Website Design"
+    - "Magento"
+    - "Shopware"
+    - "VueJs"
+    - "KnockoutJS"
+    - "Nginx"
+    - "PHP"
   author: "Scott Anderson"
 
   defaultTheme: auto
@@ -82,7 +68,6 @@ params:
   ShowPageNums: true
   ShowToc: false
   # comments: false
-  images: ["images/papermod-cover.png"]
 
   profileMode:
     enabled: false
