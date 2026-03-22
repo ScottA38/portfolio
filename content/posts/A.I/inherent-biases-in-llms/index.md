@@ -1,6 +1,8 @@
 ---
 title: "Digital Design from A-Z"
 draft: true
+aliases:
+  - /posts/inherent-biases-in-llms
 ---
 
 As the possibilities of A.I grow and [Large Language models](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/) (LLMs) become progressively more accurate, a new paradigm is emerging in modern business: a large-scale shift towards A.I-generated design and written content production, at the detriment of classical human craftmanship. The scale of this shift is unprecedented: according to [colorwhistle.com](https://colorwhistle.com/statistics-ai-content/), as many as 67% of small business owners are using A.I to generate their content online.

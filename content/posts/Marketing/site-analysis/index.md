@@ -1,6 +1,8 @@
 ---
 title: "3 (beginner) tools to demystify Google Search Rankings"
 tags: ["SEO", "marketing", "rankings"]
+aliases:
+  - /posts/site-analysis
 ---
 
 Chances are, you've heard of Google. The probability that you understand how it's Search Algorithm works, however? Less likely.

@@ -1,6 +1,8 @@
 ---
 title: "Can principles of Social Responsbility make A.I safer?"
 draft: true
+aliases:
+  - /posts/ai-ethics
 ---
 
 # A stimulating read

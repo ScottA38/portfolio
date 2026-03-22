@@ -1,6 +1,8 @@
 ---
 title: "NotebookLM: the World's first A.I-powered Digital Garden?"
 tags: ["reading", "learning", "focus", "research"]
+aliases:
+  - posts/notebook-lm-overview
 ---
 
 ### The A.I Zeitgeist

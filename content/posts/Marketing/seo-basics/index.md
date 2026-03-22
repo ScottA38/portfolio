@@ -1,6 +1,8 @@
 ---
 title: "SEO zen: 5 fundamentals to improve your Site's rankings"
 tags: ["Marketing", "SEO"]
+aliases:
+  - /posts/seo-basics
 ---
 
 Modern Search Engines are **constantly evolving** their selection criteria, each devising a unique set of **highly sophisticated metrics** (i.e: [Google](https://www.google.com/search/howsearchworks/), [Bing](https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a), [Yahoo](https://help.yahoo.com/kb/SLN2216.html) etc.) to rank sites in their results. Search Engine services use programs called '[crawler bots](https://www.cloudflare.com/en-gb/learning/bots/what-is-a-web-crawler/)' to extract raw text and metadata from the websites it lists.
