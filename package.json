@@ -1,0 +1,35 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Welcome to my portfolio site, built using [Hugo](https://gohugo.io/), a static site builder",
+  "main": "index.js",
+  "devDependencies": {
+    "@aws-amplify/backend": "^1.19.0",
+    "@aws-amplify/backend-cli": "^1.8.1",
+    "aws-cdk-lib": "^2.216.0",
+    "constructs": "^10.4.4",
+    "esbuild": "^0.27.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "hugo serve --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottA38/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ScottA38/portfolio/issues"
+  },
+  "homepage": "https://github.com/ScottA38/portfolio#readme",
+  "dependencies": {
+    "aws-amplify": "^6.15.9",
+    "fs": "^0.0.1-security"
+  }
+}
