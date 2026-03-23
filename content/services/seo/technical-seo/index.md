@@ -1,5 +1,5 @@
 ---
-title: "Technical SEO improvements"
+title: "Technical SEO"
 summary: "Search Engine Optimisation (SEO) is a structured approach to improving fundamental aspects of a website in order to improve it's relevance to Search Engine algorithms"
 tags: ["services"]
 ---

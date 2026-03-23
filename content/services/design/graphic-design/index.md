@@ -1,5 +1,6 @@
 ---
 title: "Graphic Design"
+summary: "First impressions count, and consumers associate deeply with how a company presents itself."
 description: "First impressions count, and consumers associate deeply with how a company presents itself." 
 tags: ['service']
 ---

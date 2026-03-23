@@ -1,6 +1,6 @@
 ---
-title: "Site User Experience (UX)"
-summary: "Considering the needs of your target from start to finish as they interact with your website and navigate through different stages of a funnel"
+title: "UX"
+summary: "Considering the needs of your target audience from start to finish. Known as 'Website User Experience'"
 tags: [ "service", "seo" ] 
 ---
 
