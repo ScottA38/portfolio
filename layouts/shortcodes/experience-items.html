@@ -1,0 +1,9 @@
+{{ $title := .Get "title" }}
+<section class="experience">
+    <h4>{{ cond $title $title "Experience" }}</h4>
+    <div class="experience container">
+        {{ range site.Params.experienceItems }}
+            {{ partial "experience-item" . }}
+        {{ end }}
+    </div>
+</section>

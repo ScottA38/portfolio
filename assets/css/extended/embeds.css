@@ -1,0 +1,10 @@
+iframe.embed {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+iframe.embed.short {
+    max-height: 200px;
+    margin-bottom: 2em;
+}
