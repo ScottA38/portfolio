@@ -3,15 +3,23 @@
 } */
 
 .logo {
-    position: relative;
-    top: 5vh;
+  position: relative;
+  top: 5vh;
 }
 
-#menu li a {
-    color: #FFF;
-    text-decoration: none;
+@media (prefers-color-scheme: dark) {
+  #menu li a {
+    color: #fff;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  #menu li a {
+    color: rgba(86, 14, 175); /* or another visible color for light mode */
+    font-weight: 700;
+  }
 }
 
 .nav {
-    max-width: calc(var(--main-width) + var(--gap) * 2);
+  max-width: calc(var(--main-width) + var(--gap) * 2);
 }
