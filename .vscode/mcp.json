@@ -1,0 +1,20 @@
+{
+  "servers": {
+    "ga4-server": {
+      "command": "pipx",
+      "args": ["run", "analytics-mcp"],
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "/Users/srmes/.config/gcp/search-console-mcp.json",
+        "GOOGLE_PROJECT_ID": "caramel-aria-477414-v7",
+      },
+    },
+    "google-search-console": {
+      "command": "/Users/srmes/dev/mcp-gsc/.venv/bin/python",
+      "args": ["/Users/srmes/dev/mcp-gsc/gsc_server.py"],
+      "env": {
+        "GSC_SKIP_OAUTH": "true",
+        "GSC_CREDENTIALS_PATH": "/Users/srmes/.config/gcp/search-console-mcp.json",
+      },
+    }
+  }
+}
